@@ -1,0 +1,172 @@
+Sandeep Balaji - Web Developer from Bangalore
+
+
+
+#---------- HEADER ----------#
+
+Sandeep Balaji
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Blog
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Ethan's Photo
+
+1+
+Years of Success
+
+300+
+Problems Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm Web Developer (MERN Stack)
+
+Hello I'm
+
+Sandeep Balaji
+
+Web Developer and Research Enthusiast
+
+Natural leader, inspiring and motivating team members to achieve shared goals and exceed expectations, My team won 1st position on a state level paper presentation. Detail oriented and analytical, consistently reviewing work for accuracy and identifying opportunities for improvement.
+
+Looking for internship in product based company. 
+
+
+
+
+
+#---------- ABOUT ----------#
+
+alt = Ethan's Photo
+
+alt = Ethan's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+Efficient, adaptable, and collaborative team player with a strong work ethic and a keen eye for detail, consistently delivering high quality results and contributing to a positive and productive work environment.
+
+Solved 100+ DSA problems in LEETCODE.
+
+View Portfolio
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+Had an amazing opportunity to take part in Wadhwani Foundation Entrepreneurship Training program.
+
+Entrepreneurship
+
+View Data 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+CSS
+95%
+
+React
+75%
+
+MongoDB
+90%
+
+Python
+70%
+
+PHP
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+20, Hosur, Tamil Nadu.
+
+<ion-icon name="mail"></ion-icon>
+Email
+sandeeppramila52@gmail.com
+
+<ion-icon name="call"></ion-icon>
+Phone
+9360831573
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Built an Travel Guide app similar to Airbnb.
+
+Web Development
+
+It helps foreigners to checkin in top hotels with least amount. 
+
+
+
+
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
